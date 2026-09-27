@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kaushal Pawar — AI / Full-Stack Engineer · Backend &amp; GenAI Systems">
+  <defs>
+    <radialGradient id="bgA" cx="78%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#3f4bb8" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#05060a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgB" cx="12%" cy="95%" r="55%">
+      <stop offset="0" stop-color="#6b46c8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#05060a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="34%" cy="28%" r="80%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset=".22" stop-color="#c9d1ff" stop-opacity=".18"/>
+      <stop offset=".62" stop-color="#6f7ae0" stop-opacity=".10"/>
+      <stop offset=".92" stop-color="#b9c2ff" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".55"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".6" stop-color="#e3e6f4"/>
+      <stop offset="1" stop-color="#9aa2c8"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".35"/>
+      <stop offset=".35" stop-color="#ffffff" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#a996ff" stop-opacity=".25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="#05060a"/>
+  <rect width="1200" height="300" rx="20" fill="url(#bgA)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#bgB)"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="url(#rim)"/>
+
+  <!-- particles -->
+  <g fill="#b8c2ff">
+    <circle cx="640" cy="52" r="1.2" opacity=".6"/><circle cx="700" cy="238" r="1" opacity=".5"/>
+    <circle cx="760" cy="120" r="1.4" opacity=".7"/><circle cx="1130" cy="60" r="1" opacity=".5"/>
+    <circle cx="1150" cy="232" r="1.3" opacity=".6"/><circle cx="560" cy="270" r="1" opacity=".4"/>
+    <circle cx="1080" cy="276" r="1.1" opacity=".5"/><circle cx="820" cy="28" r="1" opacity=".5"/>
+  </g>
+
+  <!-- glass orb -->
+  <g transform="translate(955 150)">
+    <ellipse rx="150" ry="36" fill="none" stroke="#6f7ae0" stroke-opacity=".45" transform="rotate(-14)"/>
+    <circle r="96" fill="url(#orb)" stroke="#ffffff" stroke-opacity=".28"/>
+    <g fill="none" stroke="#7d8cf0" stroke-opacity=".6" stroke-width="1">
+      <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22"/>
+      <polygon points="0,-44 38,22 -38,22"/>
+      <polygon points="0,44 -38,-22 38,-22"/>
+    </g>
+    <circle r="5" fill="#eef1ff"/>
+    <ellipse cx="-30" cy="-44" rx="30" ry="16" fill="#ffffff" opacity=".22"/>
+    <ellipse rx="175" ry="44" fill="none" stroke="#ffffff" stroke-opacity=".12" transform="rotate(18)"/>
+  </g>
+
+  <!-- floating glass tags -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#dfe4ff">
+    <g transform="translate(772 70)"><rect width="92" height="26" rx="13" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/><text x="46" y="17" text-anchor="middle">AI AGENTS</text></g>
+    <g transform="translate(1080 88)"><rect width="56" height="26" rx="13" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/><text x="28" y="17" text-anchor="middle">RAG</text></g>
+    <g transform="translate(800 226)"><rect width="100" height="26" rx="7" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/><text x="50" y="17" text-anchor="middle">LANGGRAPH</text></g>
+    <g transform="translate(1052 214)"><rect width="96" height="26" rx="7" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/><text x="48" y="17" text-anchor="middle">LLM APIS</text></g>
+  </g>
+
+  <!-- identity -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <circle cx="64" cy="82" r="4" fill="#8ea0ff"/>
+    <text x="78" y="87" font-size="13" font-weight="600" letter-spacing="3" fill="#c9cdda">AI / FULL-STACK ENGINEER  ·  BACKEND &amp; GENAI SYSTEMS</text>
+    <text x="58" y="170" font-size="76" font-weight="800" letter-spacing="-3" fill="url(#title)">KAUSHAL PAWAR</text>
+    <text x="60" y="214" font-size="17" fill="#a3a9bd">Scalable backends · Serverless pipelines · AI-integrated workflows</text>
+  </g>
+</svg>
