@@ -35,18 +35,8 @@
 **Software Engineering:** Software Architecture · System Design · OOP · Debugging · Git · GitHub<br/>
 **DevOps & Cloud:** Docker · CI/CD · Cloud Deployment · Environment Variables & Secrets · Linux · Logging · Monitoring
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev"><img alt="Tech stack: Python, JavaScript, Dart, Flutter, C++, FastAPI, Firebase, Supabase, Docker, Linux, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=py,js,dart,flutter,cpp,fastapi,firebase,supabase,docker,linux,git,github,vercel&perline=13&theme=dark"/></a>
 </p>
 
 ### Currently interested in
